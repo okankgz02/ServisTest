@@ -1,4 +1,4 @@
-# ServisTest
+# @MockBean
 
 @MockBean notasyonu springin beanlerine ekleme yapar.Ve mocklama işlemi yapar.@Mock notasyonuda bu işi yapar ancak.@MockBean beanlere ekler.
 
